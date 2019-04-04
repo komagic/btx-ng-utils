@@ -1,0 +1,21 @@
+{
+  "name": "@btx/utils",
+  "version": "1.0.0",
+  "description": "validator for mobile passport etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komagic/-btx-utils.git"
+  },
+  "keywords": [
+    "validator",
+    "ng",
+    "angular",
+    "typescript"
+  ],
+  "author": "tanbo.tb",
+  "license": "MIT"
+}
